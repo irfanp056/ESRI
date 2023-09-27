@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: 21 September 2023 10.05.17 AM</msg><msg code="120361" type="0">Started Spark Job 1 with 12 tasks.</msg><msg code="120362" type="0">Spark Job 1 completed in 4.0 seconds.</msg><msg code="120361" type="0">Started Spark Job 2 with 13 tasks.</msg><msg code="120362" type="0">Spark Job 2 completed in 0.4 seconds.</msg><msg code="120361" type="0">Started Spark Job 3 with 14 tasks.</msg><msg code="120362" type="0">Spark Job 3 completed in 0.1 seconds.</msg><msg code="120361" type="0">Started Spark Job 4 with 1 tasks.</msg><msg code="120362" type="0">Spark Job 4 completed in 0.6 seconds.</msg><msg code="120361" type="0">Started Spark Job 5 with 12 tasks.</msg><msg code="120362" type="0">Spark Job 5 completed in 1.4 seconds.</msg><msg code="120361" type="0">Started Spark Job 6 with 15 tasks.</msg><msg code="120362" type="0">Spark Job 6 completed in 1.4 seconds.</msg><msg code="120361" type="0">Started Spark Job 7 with 24 tasks.</msg><msg code="120362" type="0">Spark Job 7 completed in 1.4 seconds.</msg><msg code="120361" type="0">Started Spark Job 8 with 24 tasks.</msg><msg code="120362" type="0">Spark Job 8 completed in 0.4 seconds.</msg><msg code="120361" type="0">Started Spark Job 9 with 24 tasks.</msg><msg code="120362" type="0">Spark Job 9 completed in 0.4 seconds.</msg><msg code="120361" type="0">Started Spark Job 10 with 24 tasks.</msg><msg code="120362" type="0">Spark Job 10 completed in 0.4 seconds.</msg><msg code="120361" type="0">Started Spark Job 11 with 24 tasks.</msg><msg code="120362" type="0">Spark Job 11 completed in 0.5 seconds.</msg><msg code="120361" type="0">Started Spark Job 12 with 15 tasks.</msg><msg code="120362" type="0">Spark Job 12 completed in 0.9 seconds.</msg><msg code="120361" type="0">Started Spark Job 13 with 12 tasks.</msg><msg code="120362" type="0">Spark Job 13 completed in 0.8 seconds.</msg><msg code="120361" type="0">Started Spark Job 14 with 13 tasks.</msg><msg code="120362" type="0">Spark Job 14 completed in 0.0 seconds.</msg><msg code="120361" type="0">Started Spark Job 15 with 15 tasks.</msg><msg code="120362" type="0">Spark Job 15 completed in 0.9 seconds.</msg><msg code="120361" type="0">Started Spark Job 16 with 24 tasks.</msg><msg code="120362" type="0">Spark Job 16 completed in 1.5 seconds.</msg><msg code="120361" type="0">Started Spark Job 17 with 25 tasks.</msg><msg code="120362" type="0">Spark Job 17 completed in 0.0 seconds.</msg><msg code="0" type="0">Model Characteristics</msg><msg code="0" type="0">Number of Trees: 100</msg><msg code="0" type="0">Leaf Size: 5</msg><msg code="0" type="0">Tree Depth: 5</msg><msg code="0" type="0">% of Training Available per Tree: 100</msg><msg code="0" type="0">Number of Randomly Sampled Variables: 1</msg><msg code="0" type="0">% of Training Data Excluded for Validation: 10</msg><msg code="0" type="0">Training Data: Regression Diagnostics</msg><msg code="0" type="0">metricName, score</msg><msg code="0" type="0">R-Squared, 0.55</msg><msg code="0" type="0">Mean Squared Error, 0.00</msg><msg code="0" type="0">Root Mean Squared Error, 0.07</msg><msg code="0" type="0">Mean Absolute Error, 0.05</msg><msg code="0" type="0">Explained Variance, 0.00</msg><msg code="0" type="0">*Predictions for the data used to train the model compared to the observed categories for those features</msg><msg code="0" type="0">Validation Data: Regression Diagnostics</msg><msg code="0" type="0">metricName, score</msg><msg code="0" type="0">R-Squared, 0.52</msg><msg code="0" type="0">Mean Squared Error, 0.00</msg><msg code="0" type="0">Root Mean Squared Error, 0.07</msg><msg code="0" type="0">Mean Absolute Error, 0.05</msg><msg code="0" type="0">Explained Variance, 0.00</msg><msg code="0" type="0">*Predictions for the validation data (excluded from model training) compared to the observed values for those test features</msg><msg code="120361" type="0">Started Spark Job 18 with 24 tasks.</msg><msg code="120362" type="0">Spark Job 18 completed in 2.1 seconds.</msg><msg code="0" type="0">Top Variable of Importance</msg><msg code="0" type="0">Variable, Importance, Percentage</msg><msg code="0" type="0">gender_MEDAGE_CY, 0.27</msg><msg code="0" type="0">educationalattainment_SOMEHS_CY_P, 0.32</msg><msg code="0" type="0">householdincome_PCI_CY, 0.41</msg><msg code="120361" type="0">Started Spark Job 19 with 2 tasks.</msg><msg code="120362" type="0">Spark Job 19 completed in 0.0 seconds.</msg><msg code="0" type="0">------------------------------------------------------------
+-------------------Model Characteristics--------------------
+Number of Trees                                          100
+Leaf Size                                                  5
+Tree Depth                                                 5
+% of Training Available per Tree                         100
+Number of Randomly Sampled Variables                       1
+% of Training Data Excluded for Validation                10
+                                                                                                
+-----------Training Data: Regression Diagnostics------------
+metricName                         score
+R-Squared                           0.55
+Mean Squared Error                  0.00
+Root Mean Squared Error             0.07
+Mean Absolute Error                 0.05
+Explained Variance                  0.00
+*Predictions for the data used to train the model compared to the observed categories for those features
+                                                                                                
+----------Validation Data: Regression Diagnostics-----------
+metricName                         score
+R-Squared                           0.52
+Mean Squared Error                  0.00
+Root Mean Squared Error             0.07
+Mean Absolute Error                 0.05
+Explained Variance                  0.00
+*Predictions for the validation data (excluded from model training) compared to the observed values for those test features
+                                                                                                
+-----------------Top Variable of Importance-----------------
+Variable                                           Importance Percentage
+gender_MEDAGE_CY                                             0.27
+educationalattainment_SOMEHS_CY_P                            0.32
+householdincome_PCI_CY                                       0.41
+</msg><msg code="0" type="3">Succeeded at 21 September 2023 10.06.03 AM (Elapsed Time: 46.12 seconds)</msg></messages>
